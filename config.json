@@ -3,7 +3,7 @@
     "subTitle":"Blog description",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
-    "themeMode":"manual",
-    "dayTheme":"light",
-    "nightTheme":"dark_colorblind"
+    "themeMode":"fix",
+    "dayTheme":"light_tritanopia",
+    "nightTheme":"github-light",
 }
